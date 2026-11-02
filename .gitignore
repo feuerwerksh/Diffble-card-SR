@@ -1,0 +1,6 @@
+artifacts*/
+data/daily/*.csv
+data/raw/*.csv
+__pycache__/
+*.pyc
+*.pt
